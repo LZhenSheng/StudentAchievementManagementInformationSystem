@@ -30,9 +30,9 @@
 
 执行菜单[2]（查询(通过姓名)）
 
-![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/4.png)
+![](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/4.png)
 
-![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/5.png)
+![](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/5.png)
  
 执行菜单[3]（查询(通过课程名称)）
 
