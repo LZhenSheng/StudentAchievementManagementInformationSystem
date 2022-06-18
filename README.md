@@ -23,52 +23,55 @@
 
 执行菜单[1]（查询(通过学号)）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/2.png)
 
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/3.png)
   
 
 执行菜单[2]（查询(通过姓名)）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/4.png)
 
-  
-
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/5.png)
+ 
 执行菜单[3]（查询(通过课程名称)）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/6.png)
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/7.png)
 
 执行菜单[4]（插入）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/8.png)
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/9.png)
 
 执行菜单[5]（删除）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/10.png)
 
 执行菜单[6]（修改学生信息）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/11.png)
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/12.png) 
 
 执行菜单[7]（排序(通过测试成绩)）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/13.png) 
 
 执行[8]（排序(通过总评成绩)）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/14.png) 
 
 执行菜单[9]（课程最大值/最小值）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/15.png) 
 
 执行菜单[10]（课程优秀率/不及格率）
 
-  
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/16.png) 
 
 执行其他(输入其他停止)
+
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/17.png) 
