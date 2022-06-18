@@ -2,7 +2,8 @@
 
 执行菜单[0]（显示全部）
 
-![1655494134977](C:\Users\李振生\AppData\Roaming\Typora\typora-user-images\1655494134977.png)
+![1655494134977](https://github.com/lijianxing66628/StudentAchievementManagementInformationSystem/blob/main/images/1.png)
+
 
 执行菜单[1]（查询(通过学号)）
 
